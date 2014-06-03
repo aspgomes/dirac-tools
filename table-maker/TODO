@@ -1,0 +1,3 @@
+- fix construction of tables for 
+  - unique determinants
+  - fscc orbital labels  
